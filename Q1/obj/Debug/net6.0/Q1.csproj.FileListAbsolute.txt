@@ -1,0 +1,15 @@
+/home/mind/app/Q1/obj/Debug/net6.0/Q1.csproj.AssemblyReference.cache
+/home/mind/app/Q1/obj/Debug/net6.0/Q1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mind/app/Q1/obj/Debug/net6.0/Q1.AssemblyInfoInputs.cache
+/home/mind/app/Q1/obj/Debug/net6.0/Q1.AssemblyInfo.cs
+/home/mind/app/Q1/obj/Debug/net6.0/Q1.csproj.CoreCompileInputs.cache
+/home/mind/app/Q1/bin/Debug/net6.0/Q1
+/home/mind/app/Q1/bin/Debug/net6.0/Q1.deps.json
+/home/mind/app/Q1/bin/Debug/net6.0/Q1.runtimeconfig.json
+/home/mind/app/Q1/bin/Debug/net6.0/Q1.dll
+/home/mind/app/Q1/bin/Debug/net6.0/Q1.pdb
+/home/mind/app/Q1/obj/Debug/net6.0/Q1.dll
+/home/mind/app/Q1/obj/Debug/net6.0/refint/Q1.dll
+/home/mind/app/Q1/obj/Debug/net6.0/Q1.pdb
+/home/mind/app/Q1/obj/Debug/net6.0/Q1.genruntimeconfig.cache
+/home/mind/app/Q1/obj/Debug/net6.0/ref/Q1.dll
