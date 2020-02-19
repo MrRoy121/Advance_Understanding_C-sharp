@@ -9,15 +9,15 @@ namespace Q1
     {
       School school = new School("XYZ School", "XYZ Location", "XYZ District", "XYZ Province", "XYZ Private Instutition", "XYZ Rank");
       String s = school.ToStrings();
-      //Console.WriteLine(s);
+      Console.WriteLine(s);
     
       College college = new College("XYZ College", "XYZ Location", "XYZ District", "XYZ Province", "XYZ Private Instutition", "XYZ Rank", "XYZ Type");
       String c = college.ToStrings();
-      //Console.WriteLine(c);
+      Console.WriteLine(c);
 
       University university = new University("XYZ University", "XYZ Location", "XYZ District", "XYZ Province", "XYZ Private Instutition", "XYZ Rank", "XYZ Rating");
       String u = university.ToStrings();
-      //Console.WriteLine(u);
+      Console.WriteLine(u);
 
         ArrayList myList = new ArrayList();
         myList.Add(school);
