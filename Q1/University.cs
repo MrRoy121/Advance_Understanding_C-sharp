@@ -16,4 +16,11 @@ public class University : School {
     {
         Rating = rating;
     }
-}
+  
+    
+    public override String ToStrings()
+    {
+        return (base.ToStrings()+".\nRating: " + rating);
+    }
+ 
+}}
