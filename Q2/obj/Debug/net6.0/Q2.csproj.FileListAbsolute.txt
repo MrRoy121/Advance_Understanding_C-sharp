@@ -1,0 +1,15 @@
+/home/mind/Q2/bin/Debug/net6.0/Q2
+/home/mind/Q2/bin/Debug/net6.0/Q2.deps.json
+/home/mind/Q2/bin/Debug/net6.0/Q2.runtimeconfig.json
+/home/mind/Q2/bin/Debug/net6.0/Q2.dll
+/home/mind/Q2/bin/Debug/net6.0/Q2.pdb
+/home/mind/Q2/obj/Debug/net6.0/Q2.csproj.AssemblyReference.cache
+/home/mind/Q2/obj/Debug/net6.0/Q2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mind/Q2/obj/Debug/net6.0/Q2.AssemblyInfoInputs.cache
+/home/mind/Q2/obj/Debug/net6.0/Q2.AssemblyInfo.cs
+/home/mind/Q2/obj/Debug/net6.0/Q2.csproj.CoreCompileInputs.cache
+/home/mind/Q2/obj/Debug/net6.0/Q2.dll
+/home/mind/Q2/obj/Debug/net6.0/refint/Q2.dll
+/home/mind/Q2/obj/Debug/net6.0/Q2.pdb
+/home/mind/Q2/obj/Debug/net6.0/Q2.genruntimeconfig.cache
+/home/mind/Q2/obj/Debug/net6.0/ref/Q2.dll
