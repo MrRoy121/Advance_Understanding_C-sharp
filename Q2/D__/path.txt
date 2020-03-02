@@ -1,0 +1,9 @@
+
+ID: 1 Score: 60
+ID: 2 Score: 67
+ID: 3 Score: 63
+ID: 4 Score: 83
+ID: 5 Score: 187
+ID: 6 Score: 58
+ID: 7 Score: 62
+ID: 8 Score: 63
